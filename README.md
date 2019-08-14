@@ -6,7 +6,7 @@ A Java GUI memory matching card game.
 * Opp Programming
 
 # Description and Images
-
+When the game is starts, the Card, JButtons, are enabled. Clicking a card results in a flip. If the cards match, the player scores. The score is updated live. When the end game button is clicked, the player is asked if they are sure. If the click yes, the cards flip and the game ends.
 
 ## Images
 #### Start Up Screen
